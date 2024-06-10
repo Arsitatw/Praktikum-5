@@ -186,7 +186,7 @@ int main() {
 }
 ```
 #### Output
-
+![Screenshot 202024-06-10 20103053](https://github.com/Arsitatw/Praktikum-5/blob/master/praktikum%205/Screenshot%202024-06-10%20103053.png)
 #### Penjelasan 
 Di dalam fungsi main(), sebuah array dari struct Buku dengan ukuran jumlah_buku (diinisialisasi sebagai 5) dideklarasikan. Kemudian, data buku seperti judul, pengarang, penerbit, tebal halaman, dan harga buku disediakan dalam array terpisah.
 Selanjutnya, program mengisi array dari struct Buku dengan data yang telah disediakan menggunakan loop for. Setiap elemen struct Buku diisi dengan data yang sesuai dari array yang telah diinisialisasi sebelumnya.
